@@ -56,13 +56,13 @@ message = 'Hi there!'
 print(message)
 
 >>> Hi there!
-``` python
+``` 
 **comment** 
 * use it to make code read and organized
 * you can use it to ignore some code
   
   like this:
-  ```
+  ``` python
   string name = "eisa"
 
   print(name)
