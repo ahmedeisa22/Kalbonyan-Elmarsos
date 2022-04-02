@@ -173,5 +173,5 @@ fun checkGrade(grade: String) {
 [Course Link]("https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?autoplay=true")
 
 **Certifcate**
-![""]("https://user-images.githubusercontent.com/70604321/161390478-d8f15786-4f83-4730-bbd4-5e8e5007cfb1.png")
-https://github.com/ahmedeisa22/Kalbonyan-Elmarsos/issues/1#issue-1190666403
+![1647438832707](https://user-images.githubusercontent.com/70604321/161390478-d8f15786-4f83-4730-bbd4-5e8e5007cfb1.png)
+
