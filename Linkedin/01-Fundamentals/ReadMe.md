@@ -24,7 +24,7 @@ Variables and data types:
 * variables names are case-sensetive.
 
 in python:
-` 
+`
 cookies = "sugar"
 print(cookies)
 
