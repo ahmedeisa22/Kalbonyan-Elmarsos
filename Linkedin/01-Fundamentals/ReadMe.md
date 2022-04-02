@@ -65,9 +65,9 @@ print(message)
   ``` python
   string name = "eisa"
 
-  print(name)
+  #print(name)
   >>> 
-  that did't print any thing
   ```
+  **note** that did't print any thing as we use # ->comment in python
 
 
