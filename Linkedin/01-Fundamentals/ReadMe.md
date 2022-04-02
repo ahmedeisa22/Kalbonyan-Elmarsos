@@ -1,3 +1,3 @@
 # Learning objectives:
-.gfsrdf
+* gfsrdf
 
