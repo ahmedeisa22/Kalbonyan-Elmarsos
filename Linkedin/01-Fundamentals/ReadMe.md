@@ -173,4 +173,4 @@ fun checkGrade(grade: String) {
 [Course Link]("https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?autoplay=true)
 
 **Certifcate**
-![](/1647438832707.png)
+![](file:///C:/Users/Adel/AppData/Local/Temp/mume202232-8236-1s8dwre.esh1j.html)
