@@ -1,1 +1,2 @@
-#the first course
+# Learning objectives:
+
