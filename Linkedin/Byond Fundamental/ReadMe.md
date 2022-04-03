@@ -193,6 +193,63 @@ for intstance:
 - \d -> a character
 - \w -> word
 - . -> any char
-- + -> one
-- * -> 0 or more
+- (+)) -> one
+- (*)-> 0 or more
 - ? -> 0 or 1
+
+---
+## plainnig a program
+ learn more about the available syntax and structures, you'll discover multiple ways to accomplish the same task. And you'll have to choose among them and decide the best way to build the program you're trying to create. And just like with tools, there are some constructions to avoid, some that are accepted standards and some that are totally up to your preference.
+
+ **Style Guide** Documentation on approaches to code.
+
+ for python => PEP 8 is short for = Python Enhancement proposal number 8.
+ other languages have their guide style
+
+ python > google giude
+ javaScript > Aibnb js Style Guide()
+
+ **PseudoCode** Writting a description of what're trying to do using plain language.
+
+ if you write code before pesudocode like you booking hotel before plainnig to travel.
+ 
+ ---
+## I/o > INPUT / OUYPUT
+---
+## Debugging
+bugs : are the wrong or something that happen and stop program
+
+**debug:** identifying and fixing bugs.
+
+there  are  three main of bugs:
+1. Syntax error
+2. Run-time-error
+3. Logic error
+   
+   **Syntax error:** code that doesn't match the rule of the language.
+   EX:
+   ```py
+     if tem > 50  #no colon
+        do something
+   ```
+   **Run-time-error:** in call a function that is ever defined it's not an obvious until code run
+
+**Logic error** the code runs but doesn't excute the code that i expect
+
+Ex
+```py
+  i = 10
+  while i < 0:
+    print("eisa")
+    i+=1
+  ```
+**IDEs** short for > Integrated Development Enviroments
+
+**Advantges**
+* Syntax Highlighting
+* AutoCompelete
+* Linting -> you write the name wrong and this make red line under it.
+  
+
+
+
