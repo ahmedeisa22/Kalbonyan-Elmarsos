@@ -214,7 +214,7 @@ for intstance:
  if you write code before pesudocode like you booking hotel before plainnig to travel.
  
  ---
-## I/o > INPUT / OUYPUT
+## I/o => Input / OutPUT
 ---
 ## Debugging
 bugs : are the wrong or something that happen and stop program
@@ -251,5 +251,16 @@ Ex
 * Linting -> you write the name wrong and this make red line under it.
   
 
+**Test Cases** commands or scripts designed to test a specific scenario
 
+---
+## memory
+**Memory Management**: code that decides what's kept in memory and what's thrown away.
+**Memory Leak**:  amount of memory used by program continous to grow unnecessarly.
+**Garbage Collection**: An automated memory management process that keep track of which items aren't needed and delete them.
 
+note when you order the computer to do task this is a => **thread**
+
+**Algorthims** A set of instructions to describe exact result.
+
+![byondCapture](https://user-images.githubusercontent.com/70604321/161451549-5c17305b-1bc8-42e6-b517-c569b16cc935.PNG)
