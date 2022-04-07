@@ -47,7 +47,8 @@ oop is not a language it reffere to programming paradigm.
   * the document
   * the account
   * the date
-** Behaviesr = verbs** you won't be say ~~the texting~~ , or ~~the rainnig~~.
+** Behaviesr = verbs** 
+you won't be say ~~the texting~~ , or ~~the rainnig~~.
 
 **Class:** is code-template for creating program object.
 creates many objects based on one class.
@@ -64,6 +65,8 @@ creates many objects based on one class.
 
 class just a definition but object is  actual data
 **creating object = instantiation**
+
+
 **Existing classes on oo languages**:
 * Strings
 * Dates
@@ -85,6 +88,7 @@ class just a definition but object is  actual data
 * Encapsulation
 
 **Abstraction** means focus on essential qualities.
+
 **Encapsulation** Hide attirbutes from anything out of the class -> black boxing
 
 there are some reason to use Encapsulations
@@ -95,7 +99,7 @@ there are some reason to use Encapsulations
 
 **Inheritance:**
 * base a new object or class on a exsiting one.
-* linherit the exsiting attributes and methods.
+* inherit the exsiting attributes and methods.
 * Great form of code reuse.
   
 super, parent , base = the top classes 
@@ -106,7 +110,7 @@ java, c# , swift , Ruby > allow single inheritance
 
 **Polymorphism** having many forms
 
-* **Dynamic Polymorphism (run-time):** User the same interface for methods on different types of objects that may implament those in differnt way
+* **Dynamic Polymorphism (run-time):** Use the same interface for methods on different types of objects that may implament those in differnt way
 
 *overriding:* the same name and parameter but differnt body.
 
@@ -144,3 +148,63 @@ java, c# , swift , Ruby > allow single inheritance
   * code generation capabilities
   
 
+---
+
+## Requirements
+what does it need to do?
+
+**Functional Requirement:** What must it do ?
+**non-Functional Requirement:**
+ How  should it to do ?
+  * Legal
+  * Performance
+  * Support
+  * Security
+  
+  **FURPS Requirement:**  
+
+  * Functionality -> Capabilty,Reusabilit,Security core customer wants 
+  * Usability -> Human Factors,Asethetics,Consistency,Documentation
+  * Reliability -> Availability , Failure Rate & Duration,Predictability
+  * Performance -> Speed , efficiency , Resource ,Scalability
+  * Supportability -> Testability , Extensibility , Serviceability ,Configurability  
+   **FURPS+ Requirement:**
+   Design - must be built
+     Implementation  -  Does it have to be written in a certain language? Are there standards or methodologies that need to be followed?
+       InterFace - external system
+       physical - hardware
+      
+
+   ---
+   ## Use Cases
+
+   **a use case needs three essential things:** 
+   * a title: that describes a goal, 
+   * Primary actor :the person who will interact with the application to achieve that goal, referred to as a primary actor, 
+   * and the execution flow, or steps needed to accomplish the goal.
+
+**Active Voice:** omit needless word
+| User story                   | use case               |
+| ---------------------------- | ---------------------- |
+| short                        | long                   |
+| one goal                     | multiple goal          |
+| informal                     | casual                 |
+| placeholder for conversation | record of conversation |
+---
+## Domain Modeling
+**Conceptual Model:** Represents important objects and relationships between them.
+
+**CRC or CRH:**
+* Class or Component-> name of class.
+* Rsponsinilty -> things that take care of.
+* Collaboration or Helper -> other classes interact with.
+  
+---
+## class Diagram
+
+**Destructors = Finalikzer**: it's called when object destroyed.
+
+
+**inheritance = is a ..**
+**aggregation has a ..**
+Design pattern : the re-usable form of a solution to a design problem.
