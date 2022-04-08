@@ -19,7 +19,7 @@ data: information that stored or processd by computer.
 **priority Queue:** each element has a priority associated with it.
 **D-E-Q-U-E-K** double-ended queue = item can be added or rempved from either end
 
-| **D-E-Q-U-E-K**     | vs DEQUEUE |
+| **D-E-Q-U-E-K**     |  DEQUEUE |
 | ------------------- | :--------: |
 | noun data structure |    verb    |
 ---
