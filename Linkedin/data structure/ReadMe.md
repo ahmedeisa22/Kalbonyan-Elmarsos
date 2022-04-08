@@ -83,6 +83,8 @@ data: information that stored or processd by computer.
   * insert : o(log n)
   * search: o(n)
   * delete: o(n)
+
+---
 ![byondCapture](https://user-images.githubusercontent.com/70604321/162356768-f9a6fc53-5833-424d-a64b-6111027947ae.PNG)
 solve this[Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe5ug8W1GrOGPbhe5CsqDnRLBT9hGZ47IS6VGJsFMMtwTkUXw/viewform?usp=sf_link)
 
