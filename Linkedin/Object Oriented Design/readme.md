@@ -208,3 +208,6 @@ what does it need to do?
 **inheritance = is a ..**
 **aggregation has a ..**
 Design pattern : the re-usable form of a solution to a design problem.
+---
+![byondCapture](https://user-images.githubusercontent.com/70604321/162356768-f9a6fc53-5833-424d-a64b-6111027947ae.PNG
+<img width="200" alt="(1)" src="https://user-images.githubusercontent.com/70604321/162360656-8ef71610-5008-4610-b9a8-aea2a08c4c17.png">
