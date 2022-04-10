@@ -154,3 +154,4 @@ Rcursion is when function call itself.
   #### the Quick sort:Pivot point Selection.
   ---
   
+![eeee](https://user-images.githubusercontent.com/70604321/162643774-1097b7bb-3a7e-429d-83bb-1772b393bb1d.png)
