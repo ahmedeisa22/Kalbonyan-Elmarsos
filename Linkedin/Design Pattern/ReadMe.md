@@ -109,3 +109,53 @@ this pattern converts the interface of a class into another interface that clien
 ![observer](https://user-images.githubusercontent.com/70604321/162856115-6015671d-95a0-4137-9c6f-091ba224514b.PNG)
 
 ![observe](https://user-images.githubusercontent.com/70604321/162856570-d56faadd-59f5-47f0-94cf-1e33ed2b1b44.PNG)
+
+---
+
+## The decorator pattern
+
+
+**the open-closed principle:** Classes should be opened for extension but closed for modification.
+
+![de](https://user-images.githubusercontent.com/70604321/163046367-10111145-c09c-418d-bbd1-da1260265052.PNG)
+
+![Capture](https://user-images.githubusercontent.com/70604321/163047395-3098363d-ce0c-4eee-954a-485113ddfbfc.PNG)
+
+---
+## iterator pattern
+
+* provides a way to access the elements of an aggregate object sequentially to access the elements of an aggregate object sequentially without exposing its underlying representation. without exposing its underlying representation.
+
+
+**what is an aggregate object?**
+* Array.
+* Java, the Collection classes
+* List
+* Maps
+* sets
+
+![iterate](https://user-images.githubusercontent.com/70604321/163058191-1b941ef1-ae27-4183-8ebd-4d76d58233c7.PNG)
+
+**The Single Responsibility Principle:**
+says that a class should have only one reason to change.
+
+---
+## The Factory pattern
+
+![Capture](https://user-images.githubusercontent.com/70604321/163067027-66b8a7c0-d0bd-499d-b105-4aa5bbd1d86e.PNG)
+
+
+![Capture](https://user-images.githubusercontent.com/70604321/163067162-293db48c-ac49-4a9d-9140-c99443f49ec4.PNG)
+
+
+**the factory method pattern**
+ This pattern defines an interface for creating an objet but lets subclasses decide which classes to instantiate. Factory method lets a class defer instantiation to the subclasses. 
+
+ 
+![Capture](https://user-images.githubusercontent.com/70604321/163067859-f8547957-2034-4d9a-b1b0-46ba4e7e3834.PNG)
+
+---
+
+
+![1649805023956](https://user-images.githubusercontent.com/70604321/163069369-bcca2c43-36db-4a72-aa64-b6a7603618e3.png)
+
