@@ -1,4 +1,4 @@
-# Object Oriented Design
+# Design Pattern
 
 ### Learning objectives:
 * What are design patterns?
