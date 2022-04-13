@@ -49,3 +49,21 @@ transaction: -> ACID
   
 
 **SQL:** Structured Query Language.
+
+#### Relational Database mangement system(RDBMS) tools:
+
+![Relational](https://user-images.githubusercontent.com/70604321/163282288-344889c4-5647-4949-93b8-61f7f8bb5ae8.PNG)
+
+
+#### SQL:
+
+
+![Capture](https://user-images.githubusercontent.com/70604321/163282597-3418f2a0-fe06-477e-9c77-d12492e36f8e.PNG)
+
+      * In these roles, SQL acts as a DDL or a data definition language, and a DCL, or a data control language.
+
+
+**SQL Statement:**
+* Clause
+* predicate
+* Expression
