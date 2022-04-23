@@ -54,7 +54,8 @@ p strong {
 a:link,
 a:visited {
   color: black;
-  margin-bottom: 40px;
+  display: inline-block;
+  margin-bottom: 30px;
 }
 
 a:hover,
