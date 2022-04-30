@@ -1,0 +1,184 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+.container {
+  width: 850px;
+  margin: 50px auto;
+  position: relative;
+}
+article {
+  border: 5px solid black;
+}
+h2 {
+  background-color: #eee;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 22px;
+  margin-bottom: 20px;
+  padding: 11px;
+}
+.img-shoe {
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin-bottom: 0px;
+}
+p strong {
+  font-size: 30px;
+}
+
+.free {
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #777;
+  /* margin-bottom: 20px;
+  margin-right: -8px;
+  margin-top: 7px;
+  float: right; */
+  font-size: 12px;
+}
+.sale {
+  position: absolute;
+  color: #fff;
+  top: -13px;
+  left: -23px;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: bold;
+  background-color: #ec2f2f;
+  padding: 5px;
+  letter-spacing: 2px;
+}
+a:link,
+a:visited {
+  color: black;
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+/*product details*/
+
+h3 {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+li {
+  list-style-type: square;
+  margin-left: 40px;
+  margin-bottom: 10px;
+}
+li:last-child {
+  margin-bottom: 0;
+}
+button {
+  border: none;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-size: 20px;
+
+  cursor: pointer;
+  width: 100%;
+  height: 50px;
+  border-top: 5px solid #000;
+  clear: both;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six {
+  /* display: inline-block; */
+  width: 27px;
+  height: 27px;
+
+  background-color: #000;
+}
+
+.two {
+  background-color: #2f6ee2;
+}
+.three {
+  background-color: #ec2f2f;
+}
+.four {
+  background-color: #f0bf1e;
+}
+.five {
+  background-color: #90cc20;
+}
+.six {
+  background-color: #885214;
+}
+/*
+.product-info {
+  float: left;
+  width: 248px;
+  margin-top: 30px;
+  margin-right: 40px;
+}
+.product-detail {
+  float: left;
+  width: 243px;
+  margin-top: 30px;
+}
+.dollar {
+  float: left;
+}
+.clearfix {
+  clear: both;
+  margin-bottom: 10px;
+}
+.parent-3 {
+  background-color: #ec2f2f;
+}
+.eisa::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+*/
+
+/*FlexBox*/
+.free-dollar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.product-info {
+  flex: 1;
+  margin-top: 17px;
+}
+.product-detail {
+  flex: 1;
+  margin-top: 17px;
+}
+.parent-3 {
+  display: flex;
+  gap: 40px;
+}
+.six-colors {
+  display: flex;
+  gap: 10px;
+}
